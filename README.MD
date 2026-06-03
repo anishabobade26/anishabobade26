@@ -26,7 +26,7 @@ Aspiring Data Scientist | AI & Data Analytics Enthusiast 📊🤖
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=anishabobade26&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
